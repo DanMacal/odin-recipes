@@ -1,7 +1,21 @@
+html {
+    background-color: antiquewhite;
+}
+
 body {
     font-family: 'Inter', sans-serif;
+    border: solid 1px;
+    border-radius: 50px;
+    background-color: aliceblue;
+    padding: 25px;
+}
+
+ul li {
+    list-style: none;
+    padding: 10px;
 }
 
 img {
     height: 200px;
+    border-radius: 50px;
 }
